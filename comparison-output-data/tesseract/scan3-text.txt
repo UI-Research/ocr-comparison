@@ -1,0 +1,25 @@
+HANDWRITING SAMPLE FORM
+DATE CITY STATE ZIP
+a
+This sample of handwriting is being collected for use in testing computer recognition of hand printed numbers
+and letters. Please print the following characters in the boxes that appear below.
+0123456789 0123456789 0123456789
+68 237 4686 68017 521735
+022 0254 16512 023483 85
+3659 93813 793417 48 396
+74973 096061 05 872 5101
+[as]
+094597 02 144 9674 89285
+rmqwzlkbdnexvcpujoifthsgay
+SENALTOGQHWKVZIYMCXDPFUBJR
+Please print the following text in the box below:
+We, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic
+Tranquility, provide for the common Defense, promote the general Welfare, and secure the Blessings of Liberty to
+ourselves and our posterity, do ordain and establish this CONSTITUTION for the United States of America.
+le, the People of He Unikd Strks, jn order fe Form
+Q more perfect Union, establish Sustce , jngure
+| Olomeshe Tranguility, provide By Be Common Detense,
+/ romote +he genev al WSolFare, Quel secure the B lesSincs
+of Liberty +o ouvselueg brad our posterity , de a rolain
+and este bls 4Ris CONSTITUTION Soy Me Unck
+States of Pree nea,

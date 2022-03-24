@@ -1,0 +1,33 @@
+HANDWRITING SAMPLE FORM
+NAME 	DATE 	CITY 	STATE 	ZIP
+9-21-89 BARABOO 	WI 	53913
+This sample of handwriting is being collected for use in testing computer recognition of hand printed numbers
+and letters. Please print the following characters in the boxes that appear below.
+0 1 2 3 4 5 6 7 8 9 	0 1 2 3 4 5 6 7 8 9 	0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9 	0 1 2 3 4 5 6 7 8 9 	0 1 2 3 4 5 6 7 8 9
+68 	237 	4686 	68017 	521735
+68 	237 	4686 	68017 	521735
+022 	0254 	16512 	023483 	85
+022 	0254 	16512 	023483 	85
+3659 	93813 	793417 	48 	396
+3659 	93813 	793417 	48 	396
+74973 	096061	05 	872 	5101
+74973 	096061	05 	872 	5101
+094597 	02 	144 	9674 	89285
+094597 	02 	144 	9674 	89285
+r m q w z l k b d n e x v c p u j o i f t h s g a y
+r m q w z l k b d n e x v c p u j o i f t h s g a y
+S E N A L T O G Q H W K V Z I Y M C X D P F U B J R
+S E N A L T O G Q H W K V Z I Y M C X D P F U B J R
+S E N A L T O G Q H W K V Z I Y M C X D P F U B J R
+Please print the following text in the box below:
+We, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic
+Tranquility, provide for the common Defense, promote the general Welfare, and secure the Blessings of Liberty to 
+ourselves and our prosperity, do ordain and establish this CONSTITUTION for the United States of America.
+We, the People of the United States, in order to form
+a more perfect Union, establish Justice, insure
+domestic Tranquility, provide for the common Defense,
+promote the general Welfare, and secure the Blessings
+of Liberty to ourselves and our prosperity, do ordain
+and establish this CONSTITUTION for the United
+States of America.
